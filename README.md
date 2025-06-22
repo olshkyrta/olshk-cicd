@@ -1,1 +1,1 @@
-# olshk-cicd
+# Github Action. Continuous Integration
